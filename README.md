@@ -10,6 +10,7 @@ This project is a simple machine learning classification task using the classic 
 ├── iris_best_model.joblib      # Saved trained model (pipeline)
 ├── requirements.txt            # Dependencies
 └── README.md                   # Project documentation
+└── LICENSE                     # Project License
 ```
 
 ---
