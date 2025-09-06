@@ -130,4 +130,4 @@ We can do these thing on this project to make it live or enhance its performance
 ## Author
 
 **Hadeed Ahmad**
-Student at University of Agriculture — Interested in Data Science, ML, and AI.
+Student at University of Agriculture,Faisalabad — Interested in Data Science, ML, and AI.
