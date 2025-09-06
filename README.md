@@ -120,7 +120,7 @@ joblib
 ---
 
 ## Future Work
-
+We can do these thing on this project to make it live or enhance its performance, only when needed
 * Try additional algorithms (XGBoost, LightGBM).
 * Add model explainability (SHAP, permutation importance).
 * Deploy model as a Flask/Streamlit web app.
